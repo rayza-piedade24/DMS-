@@ -1,0 +1,9 @@
+Q1. What are the differences in opening the files you found between the two programs?
+
+Q2. What is the importance of controlling character encoding in data sets?
+It is important to control as it ensures that the information is actually legible when opened and doesn't contain characters the encoding can't decipher. 
+
+Q3. How can the procedures performed help improve data quality?
+It allows for the data to be organized in such a manner that one doesn't need to go looking in multiple spreadsheets
+to find specific information, and using vlookup if there is ever a necessity to to alter the reference data then these
+changes will automatically be updates on final sheet.
